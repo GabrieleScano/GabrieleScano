@@ -22,7 +22,7 @@ I am a frontend developer based in Barcelona
 
 </br>
 
-## Get in touch!
+### Get in touch!
 
 <a href="https://www.linkedin.com/in/gabrielescano/"> 
   <img align="left" alt="Gabriele's LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
